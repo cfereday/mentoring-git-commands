@@ -20,3 +20,7 @@ more changes!!
 big changes!!
 
 Second attempt
+testing git add
+add new html
+add folders
+trying git add .
